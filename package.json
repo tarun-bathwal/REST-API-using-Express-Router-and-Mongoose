@@ -1,0 +1,13 @@
+{
+  "name": "user-data",
+  "description": "user-data API",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongodb": "*",
+    "mongoose": "^4.9.2"
+  }
+}
